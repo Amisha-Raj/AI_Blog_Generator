@@ -1,4 +1,5 @@
 <h1 align="center">AI Blog Generator</h1>
+![Screenshot (510)](https://github.com/user-attachments/assets/f61d4567-ab03-44c9-90b8-c6efd955d0c4)
 
 
 
