@@ -76,7 +76,7 @@ with st.sidebar:
     
 
 
-st.title(" ✍️ Blog Post Generator ")
+st.title("AI Blog Generator ")
 
 if not openai_api_key:      
     st.info("Enter your OpenAI API key in the sidebar. You can get a key at https://platform.openai.com/account/api-keys.")
