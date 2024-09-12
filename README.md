@@ -1,4 +1,4 @@
-<h1 align="center">✍️ Blog Post Generator</h1>
+<h1 align="center">AI Blog Generator</h1>
 
 
 
